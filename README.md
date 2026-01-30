@@ -1,2 +1,2 @@
 # nextjs-dashapp
-Project made with next.js
+Project made for educational purposes following the [App Router Next.js Foundations course](https://nextjs.org/learn/dashboard-app).
